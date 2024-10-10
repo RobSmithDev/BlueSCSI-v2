@@ -3,6 +3,15 @@
 
 BlueSCSI is hardware that reproduces SCSI devices (hard disks, optical, etc) with an Pico 2040 dev board.
 
+# THIS REPO HAS BEEN ARCHIVED - HAS BEEN MERGED WITH OFFICIAL BlueSCSI FIRMWARE 
+
+
+
+
+
+ 
+
+
 image::docs/buynow.png[link=https://scsi.blue, 150]
 image::docs/discordbanner.png[link=https://discord.gg/GKcvtgU7P9, 150]
 
